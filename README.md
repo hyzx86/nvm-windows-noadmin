@@ -1,5 +1,5 @@
 # nvm-windows-noadmin
-windows 下的 node 版本切换工具脚本，允许非管理员权限运行
+windows 下的 node 版本切换工具脚本，允许非管理员权限执行 node版本切换
 
 # How to use
 
