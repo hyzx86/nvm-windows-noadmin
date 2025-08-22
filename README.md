@@ -4,7 +4,7 @@ windows 下的 node 版本切换工具脚本，允许非管理员权限执行 no
 # How to use
 
 1. 下载 nvm.bat 到你的电脑，比如 我希望 放在`C:\MyData\Tools\nvm-noinstall` 目录下
-2. 在windows 中搜索 `环境变量`，并打开`编辑账户的环境变量`，添加 `NODE_ROOT` 变量，并将其提娜佳到 Path中
+2. 在windows 中搜索 `环境变量`，并打开`编辑账户的环境变量`，添加 `NODE_ROOT` 变量，并将其添加到 Path中
   <img width="1141" height="665" alt="image" src="https://github.com/user-attachments/assets/bf991968-b7f4-4320-8de3-7b8d87ac838e" />
 
 4. 从 https://nodejs.org/zh-cn/download  手动下载你需要的 node版本，并解压到如 `C:\MyData\Tools\nvm-noinstall\v16.20.2` 像下面这样：
