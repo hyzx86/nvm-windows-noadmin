@@ -17,5 +17,5 @@ windows 下的 node 版本切换工具脚本，允许非管理员权限执行 no
    ```
    <img width="635" height="795" alt="image" src="https://github.com/user-attachments/assets/4ced9d97-b293-4cc4-aa04-d6ea786d8053" />
 
-6. 通过执行 `nvm use 18` 可以 切换到node 18 ,它 跟 nvm-window 有一样的效果，而且不需要任何管理员权限，您需要做的，仅仅是重启 IDE 或 命令行工具
+6. 通过执行 `nvm use 18` 可以 切换到node 18 ,它 跟 nvm-windows 有一样的效果，而且不需要任何管理员权限，您需要做的，仅仅是重启 IDE 或 命令行工具
 7. 其他命令： `nvm ls` 列出目前的安装信息
